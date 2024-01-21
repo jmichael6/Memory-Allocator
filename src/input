@@ -1,0 +1,23 @@
+reset b
+16 f
+16 a
+48 f
+40 f
+32 a
+24 f
+16 f
+0
+
+layout 
+
+alloc 40
+layout 
+
+alloc 8
+layout 
+
+alloc 8
+layout
+
+dump all 4
+q
